@@ -4,7 +4,12 @@
 			"id": 1,
 			"title": "Dom z papieru",
 			"thumbnailUrl": "https://fwcdn.pl/fpo/28/26/792826/7969863.3.jpg",
-			"description": "Osmioro zamaskowanych przestepców napada na hiszpanska mennice narodowa. Ich przedstawicielem jest tajemniczy Profesor, który prowadzi negocjacje z policja."
+			"description": "Osmioro zamaskowanych przestepców napada na hiszpanska mennice narodowa. Ich przedstawicielem jest tajemniczy Profesor, który prowadzi negocjacje z policja.",
+			"thumbnailsUrl": [
+			"https://occ-0-1433-1432.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRuugEvszyQvCKrblL4JkRpIq8ljywYK-cDruhIGliBWgK5iqXeLw6SUtZ_ueeG11dgfoLkl2b_tKEDZoJ8AuX6iFW3LaqMAJGiIiyPcHQ6il1Vo.webp?r=940",
+			"https://occ-0-1433-1432.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZFZiyA-gMtTlLYvigaTtG9bEIcLujsR1ns_Vs7g99xNYDHQDlJy-uPeMg4lu14aiPmPCHwZ5f42Oflg-vZHbpV4X8g6RCobeaYdXUZXO-9sfUrJ.webp?r=556",
+			"https://occ-0-1433-1432.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd7ni65BUTjSgBhC4S58RaUn1h4Ma_ETmUF_Ng_ytI97AKTCquPR3bowmypUctfz-s0BmY1fFLKqcvoGK1-uOLVvrx4AAbBs2qLFCdeFqpCemzdP.webp?r=026"
+			]
 		}
 		 ]
 }
