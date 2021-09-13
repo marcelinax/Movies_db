@@ -5,10 +5,29 @@
 			"title": "Dom z papieru",
 			"thumbnailUrl": "https://www.pcworld.pl/g1/news/thumb/3/4/349723",
 			"description": "Osmioro zamaskowanych przestepców napada na hiszpanska mennice narodowa. Ich przedstawicielem jest tajemniczy Profesor, który prowadzi negocjacje z policja.",
-			"thumbnailsUrl": [
-			"https://occ-0-1433-1432.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRuugEvszyQvCKrblL4JkRpIq8ljywYK-cDruhIGliBWgK5iqXeLw6SUtZ_ueeG11dgfoLkl2b_tKEDZoJ8AuX6iFW3LaqMAJGiIiyPcHQ6il1Vo.webp?r=940",
-			"https://occ-0-1433-1432.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZFZiyA-gMtTlLYvigaTtG9bEIcLujsR1ns_Vs7g99xNYDHQDlJy-uPeMg4lu14aiPmPCHwZ5f42Oflg-vZHbpV4X8g6RCobeaYdXUZXO-9sfUrJ.webp?r=556",
-			"https://occ-0-1433-1432.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd7ni65BUTjSgBhC4S58RaUn1h4Ma_ETmUF_Ng_ytI97AKTCquPR3bowmypUctfz-s0BmY1fFLKqcvoGK1-uOLVvrx4AAbBs2qLFCdeFqpCemzdP.webp?r=026"
+			"episodes": [
+			{
+				"id": 1,
+				"description": "Profesor rekrutuje młodą złodziejkę i siedmiu innych przestępców do udziału w wielkim skoku - ich celem będzie hiszpańska mennica.",
+				"durationInMinutes": 48,
+				"premiere": "20.12.2017",
+				"thumbnailUrl":"https://occ-0-1433-1432.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRuugEvszyQvCKrblL4JkRpIq8ljywYK-cDruhIGliBWgK5iqXeLw6SUtZ_ueeG11dgfoLkl2b_tKEDZoJ8AuX6iFW3LaqMAJGiIiyPcHQ6il1Vo.webp?r=940"
+			},
+			{
+				"id": 2,
+				"description": "Policyjna negocjatorka, Raquel, nawiązuje pierwszy kontakt z Profesorem. Jeden z zakładników jest szczególnie istotny dla złodziei.",
+				"durationInMinutes": 42,
+				"premiere": "20.12.2017",
+				"thumbnailUrl":"https://occ-0-1433-1432.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZFZiyA-gMtTlLYvigaTtG9bEIcLujsR1ns_Vs7g99xNYDHQDlJy-uPeMg4lu14aiPmPCHwZ5f42Oflg-vZHbpV4X8g6RCobeaYdXUZXO-9sfUrJ.webp?r=556"
+			},
+			{
+				"id": 3,
+				"description": "Policja zdobywa wizerunek jednego z bandytów. Raquel jest nieufna wobec mężczyzny spotkanego w barze.",
+				"durationInMinutes": 51,
+				"premiere": "20.12.2017",
+				"thumbnailUrl":"https://occ-0-1433-1432.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd7ni65BUTjSgBhC4S58RaUn1h4Ma_ETmUF_Ng_ytI97AKTCquPR3bowmypUctfz-s0BmY1fFLKqcvoGK1-uOLVvrx4AAbBs2qLFCdeFqpCemzdP.webp?r=026"
+			}
+		
 			]
 		}
 		 ]
