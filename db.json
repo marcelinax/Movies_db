@@ -31,5 +31,18 @@
 			]
 		}
 		 ],
-	"cities": []
+	"cities": [
+		{
+			"id": 1,
+			"city": "Bali",
+			"country": "Indonesia",
+			"rating": 4.5,
+			"description": "Indonesian island in the Lesser Sunda Islands archipelago. It is situated in a chain of islands; it is separated from Java (to the west) by the Bali Strait, and from the Lombok Island (to the east) by the Lombok Strait. It is an essential part of the Bali province.",
+			"imgUrl": "https://ocdn.eu/pulscms-transforms/1/RTbk9kpTURBXy9mZWI0ZWMzMWY1MjlhYjk4MTVhNzYxZWZhNzc5OGVhMi5qcGeTlQMBas0D580CMZMJpjM5MzY1MwaTBc0EsM0CdoGhMAE/bali.jpg,",
+			"price": 4451,
+			"recommendedPeople": 2
+
+
+		}
+	]
 }
